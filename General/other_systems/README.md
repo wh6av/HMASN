@@ -17,9 +17,9 @@ For more information about AREDN Mesh, go to https://www.arednmesh.org
 
 ## Calling a MeshPhone Number from Hams Over IP
 
-To call a MeshPhone number from the Hams Over IP network, dial ```78```, hit the ```dial``` button, wait for a dial tone and then dial the 7 digit MeshPhone number of the user you wish to call. Your caller ID with the correct access code from the MeshPhone side will show on the users phone, allowing them to call you back or hit redial.
+To call a MeshPhone number from the Hams Over IP network, dial ```78```, and the 7 digit MeshPhone number of the user you wish to call. Your caller ID will show on the users phone, allowing them to call you back or hit redial.
 
-* Try it: dial ```78```, hit the ```dial``` button, wait for a dial tone, and then dial ```9995000``` (time). You should hear the time from their network (WWV)
+* Try it: dial ```78```, and ```9995000``` (time). You should hear the time from their network (WWV)
 
 ## Calling a Hams Over IP Number from MeshPhone
 
@@ -29,4 +29,4 @@ To call a Hams Over IP number from the MeshPhone network, dial 74, wait for a di
 
 Don't know the number of the person you are trying to call on the MeshPhone Network? Look them up in the MeshPhone White Pages at [http://ntwomh.ddns.net:5894/meshphone/whitepages.php](http://ntwomh.ddns.net:5894/meshphone/whitepages.php).
 
-Last Updated: 07/11/2022
+Last Updated: 03/15/2023
