@@ -1,6 +1,6 @@
 site_name: HMASN Wiki
-site_url: https://wh6av.github.io/wiki
-repo_url: https://github.com/wh6av/wiki
+site_url: https://wh6av.github.io/HMASN
+repo_url: https://github.com/wh6av/HMASN
 theme:
   name: 'material'
   font:
